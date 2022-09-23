@@ -1,3 +1,4 @@
+// For delay and wait
 function colorPromise() {
     return new Promise((resolve, reject) => {
         setTimeout(() => {
